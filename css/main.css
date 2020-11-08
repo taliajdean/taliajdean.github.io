@@ -12,22 +12,7 @@ nav ul li, footer ul li}
     display: inline;
     margin-right: 20px;
 }
-footer ul li.left{
-    display: inline-block;
-    float: left;
-}
-footer ul li.middle{
-    display:inline-block;
-    float:center;
-}
-footer ul li.right{
-    display:inline-block;
-    float:right;
-}
 
-footer ul li {
-    display:block;
-}
 a {
     text-decoration: none;
     color: #999;
