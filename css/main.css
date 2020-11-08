@@ -63,3 +63,12 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+ul.websites li a{
+    text-align:center;
+}
+ul.connect li a{
+    text-align:center;
+}
+ul.contact li a{
+    text-align:center;
+}
