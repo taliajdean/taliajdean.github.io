@@ -12,9 +12,11 @@ nav ul li, footer ul li{
     display: inline;
     margin-right: 20px;
 }
+footer ul li{
+    text-align:center;
+}
 footer
 {
-    text-align:center;
     width:960px;
     height:auto;
     margin:0;
@@ -43,6 +45,7 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
+    text-align:center;
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
