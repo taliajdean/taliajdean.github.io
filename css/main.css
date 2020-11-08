@@ -65,3 +65,6 @@ ul.posts li {
     text-align:center;
 
 }
+ul.websites li, ul.connect li, ul.contact li{
+    text-align:center;
+}
