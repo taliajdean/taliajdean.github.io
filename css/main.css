@@ -14,12 +14,12 @@ nav ul li, footer ul li{
 }
 footer
 {
-    width:270px;
+    width:600px;
 }
 footer ul.websites, footer ul.connect{
     display:inline-block;
     float:left;
-    width:1800px;
+    width:200px;
 }
 footer ul.contact{
     display:inline-block;
