@@ -62,7 +62,5 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
-}
-ul.websites li, ul.connect li, ul.contact li{
-    text-align:right;
+    text-align:center;
 }
