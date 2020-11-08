@@ -15,10 +15,7 @@ nav ul li, footer ul li
     display: inline;
     margin-right: 20px;
 }
-ul.footer
-{
-    text-align:center;
-}
+
 footer
 {
     width:960px;
@@ -31,11 +28,13 @@ footer ul.websites, footer ul.contact{
     display:inline-block;
     float:left;
     width:290px;
+    text-align:center;
 }
 footer ul.connect{
     display:inline-block;
     float:left;
     width:380px;
+    text-align:center;
 }
 a {
     text-decoration: none;
