@@ -12,6 +12,11 @@ nav ul li}
     display: inline;
     margin-right: 20px;
 }
+footer ul.left{
+    display: block;
+    float: left;
+}
+
 footer ul li {
     display:block;
 }
