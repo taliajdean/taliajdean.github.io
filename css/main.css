@@ -12,15 +12,15 @@ nav ul li, footer ul li{
     display: inline;
     margin-right: 20px;
 }
-.websites{
+footer ul.websites{
     display:inline-block;
     float:left;
 }
-.connect{
+footer ul.connect{
     display:inline-block;
     float:center;
 }
-.contact{
+footer ul.contact{
     display:inline-block;
     float:right;
 }
