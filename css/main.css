@@ -15,7 +15,6 @@ nav ul li, footer ul li
     display: inline;
     margin-right: 20px;
 }
-
 footer
 {
     width:960px;
@@ -24,46 +23,55 @@ footer
     padding:0;
     border:0;
 }
-footer ul.websites, footer ul.contact{
+footer ul.websites, footer ul.contact
+{
     display:inline-block;
     float:left;
     width:290px;
 }
-footer ul.connect{
+footer ul.connect
+{
     display:inline-block;
     float:left;
     width:380px;
 }
-a {
+footer ul.websites li{
+    text-align:center;
+}
+a
+{
     text-decoration: none;
     color: #999;
 }
-a:hover {
+a:hover
+{
     text-decoration: underline;
 }
-h1 {
+h1
+{
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
-p {
+p
+{
     text-align:center;
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
 }
-footer {
+footer
+{
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
-
-ul.posts { 
+ul.posts
+{ 
     margin: 20px auto 40px; 
     font-size: 1.5em;
 }
 
-ul.posts li {
+ul.posts li
+{
     list-style: none;
 }
-li{
-    text-align:center;
-}
+
