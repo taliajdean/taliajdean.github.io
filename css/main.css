@@ -12,15 +12,15 @@ nav ul li}
     display: inline;
     margin-right: 20px;
 }
-footer ul.left{
+footer ul li.left{
     display: inline-block;
     float: left;
 }
-footer ul.middle{
+footer ul li.middle{
     display:inline-block;
     float:center;
 }
-footer ul.right{
+footer ul li.right{
     display:inline-block;
     float:right;
 }
