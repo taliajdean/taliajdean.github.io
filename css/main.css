@@ -22,11 +22,13 @@ footer
 }
 footer ul.websites, footer ul.contact{
     display:inline-block;
+    text-align:center;
     float:left;
     width:290px;
 }
 footer ul.connect{
     display:inline-block;
+    text-align:center;
     float:left;
     width:380px;
 }
