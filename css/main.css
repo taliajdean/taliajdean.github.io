@@ -14,17 +14,21 @@ nav ul li, footer ul li{
 }
 footer
 {
-    width:600px;
+    width:960px;
+    height:auto;
+    margin:0;
+    padding:0;
+    border:0;
 }
-footer ul.websites, footer ul.connect{
+footer ul.websites, footer ul.contact{
     display:inline-block;
     float:left;
-    width:200px;
+    width:290px;
 }
-footer ul.contact{
+footer ul.connect{
     display:inline-block;
-    float:right;
-    width:auto;
+    float:left;
+    width:380px;
 }
 a {
     text-decoration: none;
