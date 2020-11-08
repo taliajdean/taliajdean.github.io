@@ -1,18 +1,22 @@
-body {
+body
+{
     margin: 60px auto;
     width: 70%;
 }
-nav ul, footer ul {
+nav ul, footer ul
+{
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
-nav ul li, footer ul li{
+nav ul li, footer ul li
+{
     display: inline;
     margin-right: 20px;
 }
-footer ul li{
+footer ul li
+{
     text-align:center;
 }
 footer
@@ -62,9 +66,4 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
-    text-align:center;
-
-}
-ul.websites li, ul.connect li, ul.contact li{
-    text-align:center;
 }
