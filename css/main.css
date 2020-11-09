@@ -74,18 +74,30 @@ ul.posts li
 {
     list-style: none;
 }
+#buttonDiv{
+    position: fixed;
+        width:200px;
+        height:40px;
+        top: 50%;
+        left: 50%;
+        margin-top: -100px;
+        margin-left: -100px;
+        font-family:'Helvetica', 'Arial', 'Sans-Serif';
+        border: none;
+    
+        
+}
 .btn
 {
-  width: 200px;
-  height: 40px;
-  font-family:'Helvetica', 'Arial', 'Sans-Serif';
-  border: none;
+  
   background-color: black;
   padding: 0px;
   cursor: pointer;
   font-size: 12px;
-    margin-left:auto;
-    margin-right:auto;
+    display:table-cell;
+     align-content:center;
+     vertical-align:middle; 
+
 }
 
 .btn:hover
