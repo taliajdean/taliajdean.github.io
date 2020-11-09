@@ -35,7 +35,7 @@ footer ul.connect
     float:left;
     width:380px;
 }
-footer ul.websites li{
+footer ul.websites li, footer ul.connect li, footer ul.contact li{
     text-align:center;
 }
 a
