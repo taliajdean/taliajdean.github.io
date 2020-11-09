@@ -90,3 +90,7 @@ ul.posts li
 {
   background-color: Gray;
 }
+li
+{
+    text-align:center;
+}
