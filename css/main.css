@@ -82,6 +82,7 @@ ul.posts li
         margin-left: -100px;
         font-family:'Helvetica', 'Arial', 'Sans-Serif';
         border: none;
+    text-align:center;
 }
 .btn
 {
