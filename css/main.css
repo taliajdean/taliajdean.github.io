@@ -78,7 +78,7 @@ ul.posts li
 {
   width: 200px;
   height: 40px;
-  font:'Sans-Serif';
+  font-family:'Helvetica', 'Arial', 'Sans-Serif';
   border: none;
   background-color: black;
   padding: 0px;
