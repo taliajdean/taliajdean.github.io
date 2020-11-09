@@ -80,10 +80,8 @@ ul.posts li
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     border: none;
     text-align:center;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
+    margin: 60px auto;
+    width: 70%;
         
 }
 .btn
