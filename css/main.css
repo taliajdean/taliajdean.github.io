@@ -86,7 +86,7 @@ ul.posts li
 }
 .btn
 {
-  border:none;
+  border-style:none;
   background-color: black;
   width:200px;
   height:40px;
