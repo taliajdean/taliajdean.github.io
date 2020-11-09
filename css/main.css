@@ -76,7 +76,6 @@ ul.posts li
 }
 #buttonDiv{
     position: fixed;
-    width: 617.4px;
     height: 40px;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     border: none;
@@ -85,7 +84,6 @@ ul.posts li
     margin-block-end: 1em;
     margin-inline-start: 0px;
     margin-inline-end: 0px;
-    padding: 20px;
         
 }
 .btn
