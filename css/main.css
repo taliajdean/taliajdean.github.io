@@ -17,6 +17,7 @@ nav ul li, footer ul li
 }
 footer
 {
+    position:absolute;
     width:960px;
     height:auto;
     margin:0;
