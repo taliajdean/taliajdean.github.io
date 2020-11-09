@@ -74,15 +74,16 @@ ul.posts li
 {
     list-style: none;
 }
-.btn {
-  background-color: Black;
+.btn
+{
   border: none;
-  color: white;
-  padding: 12px 30px;
+  color: black;
+  padding: 8px 10px;
   cursor: pointer;
   font-size: 20px;
 }
 
-.btn:hover {
+.btn:hover
+{
   background-color: Gray;
 }
