@@ -84,6 +84,8 @@ ul.posts li
   padding: 0px;
   cursor: pointer;
   font-size: 12px;
+    margin-left:auto;
+    margin-right:auto;
 }
 
 .btn:hover
