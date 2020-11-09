@@ -76,17 +76,17 @@ ul.posts li
 }
 #buttonDiv{
     position: fixed;
-        width: 617.4px;
-        height: 40px;
-        margin-right: -100px;
-        margin-left: -100px;
-        font-family:'Helvetica', 'Arial', 'Sans-Serif';
-        border: none;
+    width: 617.4px;
+    height: 40px;
+    margin-right: -100px;
+    margin-left: -100px;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    border: none;
     text-align:center;
 }
 .btn
 {
-  
+  border:none;
   background-color: black;
   width:200px;
   height:40px;
@@ -95,6 +95,7 @@ ul.posts li
   font-size: 12px;
   display:table-cell;
   align-content:center;
+  text-align: center;
 
 }
 
